@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# DishDiscovery
 
-## Getting Started
+DishDiscovery is a modern web application designed to fetch and display recipes using the DummyJSON API. This project leverages cutting-edge frontend technologies to provide a sleek and user-friendly experience.
 
-First, run the development server:
+## Technologies Used
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Next.js**: A React framework for building fast, server-rendered applications.
+- **React.js**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **DummyJSON**: A dummy API used to fetch recipe data.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Packages Used
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **class-variance-authority**: ^0.7.0 - Utility for managing class variance in styled components.
+- **clsx**: ^2.1.1 - Utility for constructing `className` strings conditionally.
+- **lucide-react**: ^0.408.0 - Icon library for React.
+- **next**: 14.2.5 - The React framework for server-rendered applications.
+- **react**: ^18 - A JavaScript library for building user interfaces.
+- **react-dom**: ^18 - React package for working with the DOM.
+- **react-hook-form**: ^7.52.1 - Performant, flexible and extensible forms with easy-to-use validation.
+- **react-icons**: ^5.2.1 - Collection of popular icons as React components.
+- **tailwind-merge**: ^2.4.0 - Utility for merging Tailwind CSS classes.
+- **tailwindcss-animate**: ^1.0.7 - Plugin for Tailwind CSS to enable animations.
