@@ -1,5 +1,7 @@
 # DishDiscovery
 
+![Portfolio Screenshot](/public/images/homepage.png)
+
 DishDiscovery is a modern web application designed to fetch and display recipes using the DummyJSON API. This project leverages cutting-edge frontend technologies to provide a sleek and user-friendly experience.
 
 ## Technologies Used
